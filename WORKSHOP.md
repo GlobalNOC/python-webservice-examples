@@ -2,7 +2,7 @@
 
 During this hands-on coding workshop, GlobalNOC Engineers will lead a coding session in Python to interact with GlobalNOC Web Services. Participants should come prepared with pre-requisites below.
 
-### Pre-requisites
+### Set up
 
 * Go to https://jupyterhub.greatplains.net/ and login with the Campus credentials. If your orgranization is not in the list, you can either select `Google` or `Github`
 * On the next Menu, launch the `GlobalNOC Notebook` server. This will take a couple minutes to start up the server.
