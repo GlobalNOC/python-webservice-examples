@@ -1,0 +1,4 @@
+USERNAME=""
+PASSWORD=""
+REALM=""
+BASE_URL=""
