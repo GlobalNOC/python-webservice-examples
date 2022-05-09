@@ -11,7 +11,7 @@ During this hands-on coding workshop, GlobalNOC Engineers will lead a coding ses
 
  ```
  git clone https://github.com/GlobalNOC/python-webservice-examples.git
- cd python-globalnoc-examples
+ cd python-webservice-examples
  ```
  * Set up the virtual environment and activate it.
  
